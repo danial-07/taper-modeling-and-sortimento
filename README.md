@@ -25,7 +25,7 @@ desafio-05-taper-e-sortimento/
 └── README.md   (this file)
 ```
 
-## Stage 1 — Taper model formulations (exact, as required by the assignment)
+## Stage 1 — Taper model formulations 
 
 All three models were fit with `lm()` on the pooled cubagem dataset:
 **1,125 measured sections from the 36 cubed trees**, using the relative
